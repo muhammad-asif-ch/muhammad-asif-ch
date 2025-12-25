@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Now Playing Badge -->
-  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">
+  <a href="https://open.spotify.com/album/1mmirvXpu8QBMnMAtugfat" target="_blank">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Now Playing on Spotify" width="350"/>
   </a>
 </p>
