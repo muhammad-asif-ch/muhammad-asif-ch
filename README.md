@@ -80,13 +80,13 @@
 * 📈 Real-world **Data Analysis & ML projects**
 * 🧠 Improving Skills in **SQL, Power BI, Tableau**
 * 🤖 Deep Learning fundamentals
-* 💼 **Internship-ready portfolio**
 
 ---
 
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
+  <img src="(https://activity-graph.herokuapp.com/graph?username=muhammad-asif10&theme=github" height="150"/>
 </p>
 
 ---
