@@ -1,13 +1,9 @@
-```html
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <h3 align="center">Aspiring Data Scientist | Python Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
-```
-
----
 
 ## 👨‍💻 About Me
 
