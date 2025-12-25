@@ -79,7 +79,7 @@
 ## 🎯 What I’m Working Toward
 
 * 📈 Real-world **Data Analysis & ML projects**
-* 🧠 Improving **SQL, Power BI, Tableau**
+* 🧠 Improving Skills in **SQL, Power BI, Tableau**
 * 🤖 Deep Learning fundamentals
 * 💼 **Internship-ready portfolio**
 
