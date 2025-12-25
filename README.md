@@ -136,24 +136,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="50" height="50"/>
   </a>
 </p>
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)"/>
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
-  </p>
-</div>
-
 ---
 <a href="mailto:MuhammadAsif00@proton.me">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
@@ -165,3 +147,10 @@
 > *“Learning by building — one project at a time.”*
 
 ⭐ **Open to internships, collaboration & learning opportunities**
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="70%"/>
+  </p>
+</div>
+
