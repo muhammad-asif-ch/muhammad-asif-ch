@@ -91,11 +91,6 @@
 <h3 align="center">🌐 My Favorite Learning Platforms</h3>
 
 <p align="center">
-  <!-- W3Schools -->
-  <a href="https://www.w3schools.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/w3schools.png" alt="W3Schools" width="50" height="50"/>
-  </a>
-
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="50" height="50"/>
@@ -142,23 +137,22 @@
   </a>
 </p>
 
-<!--  GitHub Activity Section -->
-<h3 align="center">📊 GitHub Activity Dashboard</h3>
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <a href="https://github.com/muhammad-asif10" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="300"/>
-  </a>
-  <a href="https://github.com/muhammad-asif10" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" alt="GitHub Streak" width="300"/>
-  </a>
-  <a href="https://github.com/muhammad-asif10" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" width="300"/>
-  </a>
-  <a href="https://github.com/muhammad-asif10" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
-  </a>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+  </p>
+</div>
 
 ---
 <a href="mailto:MuhammadAsif00@proton.me">
