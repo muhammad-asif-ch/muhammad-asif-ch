@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+Programmer;Lifelong+Learner+%7C+Tech+Explorer;Turning+Data+into+Insights+%26+Solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7Python+Programmer;Lifelong+Learner+%7C+Tech+Explorer;Turning+Data+into+Insights+%26+Solutions">
   </a>
 </p>
 
@@ -20,7 +20,6 @@
 * 🐍 Strong in **Python**, learning ML & analytics tools
 * 💼 Actively seeking **remote internships** (Data Science / AI)
 * ✍️ Blogging at **[DEV](https://dev.to/muhammadasif)**
-* 📫 **[MuhammadAsif00@proton.me](mailto:MuhammadAsif00@proton.me)**
 
 ---
 
@@ -39,7 +38,7 @@
 * Ideal for **accessibility & productivity tools**
 
 🔗 **Repository:**
-👉 [https://github.com/muhammad-asif10/text_to_speech_app](https://github.com/muhammad-asif10/text_to_speech_app)
+👉 [TTS](https://github.com/muhammad-asif10/text_to_speech_app)
 
 ---
 
@@ -137,16 +136,11 @@
   </a>
 </p>
 ---
-<a href="mailto:MuhammadAsif00@proton.me">
+<a href="mailto:MuhammadAsif00@proton.me", align="center>
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
----
-
-> *“Learning by building — one project at a time.”*
-
-⭐ **Open to internships, collaboration & learning opportunities**
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <p align="center">
@@ -154,3 +148,6 @@
   </p>
 </div>
 
+> *“Learning by building — one project at a time.”*
+
+⭐ **Open to internships, collaboration & learning opportunities**
