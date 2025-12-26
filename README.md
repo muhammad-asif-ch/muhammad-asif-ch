@@ -85,7 +85,6 @@
 * 🧠 Improving Skills in **SQL, Power BI, Tableau**
 * 🤖 Deep Learning fundamentals
 
----
 <!-- Learning Platforms Section -->
 <h3 align="center">🌐 My Favorite Learning Platforms</h3>
 
