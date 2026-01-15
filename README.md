@@ -4,7 +4,7 @@
   <div id="badges">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Programmer;Lifelong+Learner+%7C+Tech+Explorer;Turning+Data+into+Insights+%26+Solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Program Solver;">
   </a>
 </p>
 
